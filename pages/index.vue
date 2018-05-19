@@ -3,10 +3,10 @@
     <div>
       <logo/>
       <h1 class="title">
-        product-catalog-nuxt-storyblok
+        Gentry Way Co., Ltd.
       </h1>
       <h2 class="subtitle">
-        SSR Product catalog website using Nuxt.js frontend and Storyblok backend
+        Product Catalog Test Site
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
